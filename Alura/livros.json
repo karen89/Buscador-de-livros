@@ -1,0 +1,128 @@
+[
+{
+    "titulo": "A paciente Silenciosa",
+    "autor":"Alex Michaelides",
+    "ano": 2019,
+    "categoria": "Suspense",
+    "descricao": "A história de uma mulher que atira no marido e depois nunca mais fala, e do psicoterapeuta obcecado em descobrir o motivo por trás de seu silêncio.",
+    "link": "https://www.amazon.com.br/stores/Alex-Michaelides/author/B07CZQY3KT?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true",
+    "capa": "imagens/a-paciente-silenciosa.jpg"
+},
+{
+    "titulo" : "Nunca Minta",
+    "autor" : "Freida McFadden",
+    "ano" : 2024,
+    "categoria" : "Suspense",
+    "descricao": "Tricia e Ethan, um casal recém-casado, ficam presos por uma nevasca na mansão de uma psiquiatra desaparecida. Ao explorar a casa, Tricia descobre fitas de áudio das sessões de terapia da antiga dona, revelando segredos perturbadores sobre seu desaparecimento.",
+    "link": "https://www.amazon.com.br/stores/Freida-McFadden/author/B00ELQLN2I?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true",
+    "capa": "imagens/nunca-minta.jpg"
+},
+{
+    "titulo": "It: A Coisa",
+    "autor":"Stephen King",
+    "ano": 1986,
+    "categoria": "Terror",
+    "descricao": "Um clássico do terror que explora os medos mais profundos de um grupo de amigos que enfrenta uma entidade maligna em sua cidade natal.",
+    "link": "https://www.amazon.com.br/stores/Stephen-King/author/B000AQ0842?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true",
+    "capa": "imagens/it-a-coisa.jpg"
+},
+{
+    "titulo": "O iluminado",
+    "autor":"Stephen King",
+    "ano": 1977,
+    "categoria": "Terror",
+    "descricao": "A história de Jack Torrance, um escritor que aceita um emprego como zelador de inverno em um hotel isolado, onde forças sobrenaturais começam a afetar sua sanidade.",
+    "link": "https://www.amazon.com.br/stores/Stephen-King/author/B000AQ0842?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true",
+    "capa": "imagens/o-iluminado.jpg"
+},
+{
+    "titulo": "O Hobbit",
+    "autor": "J.R.R. Tolkien",
+    "ano": 1937,
+    "categoria": "Fantasia",
+    "descricao": "A jornada inesperada de Bilbo Bolseiro, um hobbit que prefere o conforto de sua casa, mas é arrastado para uma aventura épica para recuperar um tesouro.",
+    "link": "https://www.amazon.com.br/stores/J.-R.-R.-Tolkien/author/B000ARC6KA?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true",
+    "capa": "imagens/o-hobbit.jpg"
+},
+{
+    "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+    "autor": "J.R.R. Tolkien",
+    "ano": 1954,
+    "categoria": "Fantasia",
+    "descricao": "A primeira parte da épica trilogia que segue a jornada de Frodo Bolseiro para destruir o Um Anel e salvar a Terra Média das forças do mal.",
+    "link": "https://www.amazon.com.br/stores/J.-R.-R.-Tolkien/author/B000ARC6KA?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true",
+    "capa": "imagens/o-senhor-dos-aneis-a-sociedade-do-anel.jpg"
+},  
+{
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "ano": 1949,
+    "categoria": "Distopia",
+    "descricao": "Uma distopia sombria sobre um futuro totalitário onde o pensamento é controlado e a verdade é manipulada pelo 'Grande Irmão'.",
+    "link": "https://www.amazon.com.br/stores/George-Orwell/author/B000AQ0KKY?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true",
+    "capa": "imagens/1984.jpg"
+},
+{
+    "titulo": "O Alquimista",
+    "autor": "Paulo Coelho",
+    "ano": 1988,
+    "categoria": "Ficção",
+    "descricao": "A história de Santiago, um pastor andaluz que viaja em busca de um tesouro, mas encontra sabedoria e autoconhecimento em sua jornada.",
+    "link": "https://www.amazon.com.br/stores/Paulo-Coelho/author/B000AQ3HB8?pd_rd_w=T4e2F&content-id=amzn1.sym.2887e3a7-150d-4af2-89c5-f96ba5f2abf1:amzn1.sym.2887e3a7-150d-4af2-89c5-f96ba5f2abf1&pd_rd_wg=tdtmx&pd_rd_r=1b6267d3-8bf6-4570-85d7-ecc78bed77b7&qid=1763596971&ref_=sxts_spks_0_0_2887e3a7-150d-4af2-89c5-f96ba5f2abf1&isDramIntegrated=true&shoppingPortalEnabled=true",
+    "capa": "imagens/o-alquimista.jpg"
+},
+{
+    "titulo": "Duna",
+    "autor": "Frank Herbert",
+    "ano": 1965,
+    "categoria": "Ficção Científica",
+    "descricao": "Em um futuro distante, em um planeta desértico, Paul Atreides se vê no centro de uma guerra pelo controle da substância mais valiosa do universo.",
+    "link": "https://www.amazon.com.br/stores/Frank-Herbert/author/B000APO5OM?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true",
+    "capa": "imagens/duna.jpg"
+},
+{
+    "titulo": "O Guia do Mochileiro das Galáxias",
+    "autor": "Douglas Adams",
+    "ano": 1979,
+    "categoria": "Ficção Científica",
+    "descricao": "A saga cômica de Arthur Dent, que é salvo da destruição da Terra por seu amigo Ford Prefect, um pesquisador para o guia de viagens intergaláctico.",
+    "link": "https://www.amazon.com.br/stores/Douglas-Adams/author/B000AQ2A84?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true",
+    "capa": "imagens/o-guia-do-mochileiro-das-galaxias.jpg"
+},
+{
+    "titulo": "A Menina que Roubava Livros",
+    "autor": "Markus Zusak",
+    "ano": 2005,
+    "categoria": "Ficção Histórica",
+    "descricao": "A história de Liesel Meminger, uma jovem que encontra consolo em livros durante os horrores da Segunda Guerra Mundial na Alemanha.",
+    "link": "https://www.amazon.com.br/stores/Markus-Zusak/author/B001H6EQ9W?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true",
+    "capa": "imagens/a-menina-que-roubava-livros.jpg"
+},
+{
+    "titulo": "O menino do pijama listrado",
+    "autor": "John Boyne",
+    "ano": 2006,
+    "categoria": "Ficção Histórica",
+    "descricao": "A amizade improvável entre Bruno, o filho de um oficial nazista, e Shmuel, um menino judeu preso em um campo de concentração durante a Segunda Guerra Mundial.",
+    "link": "https://www.amazon.com.br/stores/John-Boyne/author/B001HCXVHE?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true",
+    "capa": "imagens/o-menino-do-pijama-listrado.jpg"
+},
+{
+    "titulo": "A revolucão dos bichos",
+    "autor": "George Orwell",
+    "ano": 1945,
+    "categoria": "Distopia",
+    "descricao": "Uma fábula satírica sobre uma revolta de animais em uma fazenda, que serve como uma alegoria para a Revolução Russa e os perigos do totalitarismo.",
+    "link": "https://www.amazon.com.br/stores/George-Orwell/author/B000AQ0KKY?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true",
+    "capa": "imagens/a-revolucao-dos-bichos.jpg"
+},
+{
+    "titulo": "A biblioteca da meia-noite",
+    "autor": "Matt Haig",
+    "ano": 2020,
+    "categoria": "Ficção",
+    "descricao": "Nora Seed descobre uma biblioteca entre a vida e a morte, onde cada livro representa uma vida que ela poderia ter vivido, levando-a a refletir sobre suas escolhas.",
+    "link": "https://www.amazon.com.br/stores/Matt-Haig/author/B001IO8C1Q?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true",
+    "capa": "imagens/a-biblioteca-da-meia-noite.jpg"
+}
+]

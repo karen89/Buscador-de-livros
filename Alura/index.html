@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Buscador de Livros</title>
+    <!-- Ícone do site (Favicon) -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📚</text></svg>">
+    <!-- Importação da fonte Quicksand do Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Quicksand:wght@500;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+    <header>
+
+        <h1>Buscador de livros</h1>
+        <button id="theme-toggle-btn" class="theme-btn" aria-label="Alternar tema">
+            <svg class="sun-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.25a.75.75 0 01.75.75v2.25a.75.75 0 01-1.5 0V3a.75.75 0 01.75-.75zM7.5 12a4.5 4.5 0 119 0 4.5 4.5 0 01-9 0zM18.894 6.106a.75.75 0 010 1.06l-1.591 1.592a.75.75 0 01-1.06-1.061l1.591-1.591a.75.75 0 011.06 0zM21.75 12a.75.75 0 01-.75.75h-2.25a.75.75 0 010-1.5H21a.75.75 0 01.75.75zM17.836 17.836a.75.75 0 01-1.06 0l-1.591-1.591a.75.75 0 111.06-1.06l1.591 1.591a.75.75 0 010 1.06zM12 18.75a.75.75 0 01.75.75V21a.75.75 0 01-1.5 0v-2.25a.75.75 0 01.75-.75zM5.106 17.836a.75.75 0 010-1.06l1.591-1.591a.75.75 0 011.06 1.06l-1.591 1.591a.75.75 0 01-1.06 0zM4.5 12a.75.75 0 01.75-.75h2.25a.75.75 0 010 1.5H5.25a.75.75 0 01-.75-.75zM6.106 5.106a.75.75 0 011.06 0l1.591 1.591a.75.75 0 11-1.06 1.06L6.106 6.166a.75.75 0 010-1.06z"></path></svg>
+            <svg class="moon-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path fill-rule="evenodd" d="M9.528 1.718a.75.75 0 01.162.819A8.97 8.97 0 009 6a9 9 0 009 9 8.97 8.97 0 004.463-1.442.75.75 0 01.981.981A10.503 10.503 0 0118 21a10.5 10.5 0 01-10.5-10.5c0-4.368 2.667-8.112 6.46-9.672a.75.75 0 01.818.162z" clip-rule="evenodd"></path></svg>
+        </button>
+        <div>
+            <input type="text" id="input-busca" placeholder="Busque por título, autor, categoria ou ano...">
+            <select id="ordenar-por">
+                <option value="relevancia">Ordenar por Relevância</option>
+                <option value="autor">Agrupar por Autor</option>
+                <option value="categoria">Agrupar por Gênero</option>
+            </select>
+            <button id="botao-busca" class="btn btn-primary" onclick="buscarLivros()">Buscar</button>
+            <button id="botao-limpar" class="btn btn-primary" onclick="limparBusca()">Limpar</button>
+        </div>
+
+    </header>
+
+    <main>
+        <section id="secao-livros" class="card-livro">
+            <!-- Exemplo de um artigo/resultado de busca -->
+            <!-- <article class="card">
+                <h2>Título do Livro Exemplo</h2>
+                <p>Autor: <strong>Nome do Autor</strong></p>
+                <p>Descrição breve do livro, mostrando como o conteúdo pode aparecer aqui. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <a href="https://www.amazon.com.br/stores/Freida-McFadden/author/B00ELQLN2I?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true" target="_blank">Saiba mais sobre o autor</a>
+            </article> -->
+            
+        </section>
+    </main>
+
+
+    <!-- Modal para exibir a capa do livro -->
+    <div id="modal-capa" class="modal-container">
+        <div class="modal-content">
+            <span class="modal-close">&times;</span>
+            <img id="imagem-modal" src="" alt="Capa do livro em destaque">
+        </div>
+    </div>
+
+    <footer>
+        <div class="footer-links">
+            <a href="#" aria-label="Visite nosso Instagram">Instagram</a>
+            <a href="#" aria-label="Visite nosso perfil no Github">Github</a>
+            <a href="#" aria-label="Visite nosso perfil no Linkedin">Linkedin</a>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
